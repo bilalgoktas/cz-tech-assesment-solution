@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import Dropdown from "./components/Dropdown/Dropdown";
 import { animals } from "./mockData";
 

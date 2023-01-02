@@ -18,7 +18,6 @@ type DropdownProps = {
 
 const Dropdown = ({
   options,
-
   onChange,
   placeholder,
   clearable,
